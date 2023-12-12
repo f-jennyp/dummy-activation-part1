@@ -188,6 +188,7 @@
 
 			<div class="img-holder">
 				<img src="public/images/content/practice-area-img.png" alt="">
+				<div class="overlay-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit</div>
 			</div>
 
 			<div class="content-holder">
@@ -308,13 +309,13 @@
 			</div>
 		</div>
 
-		<div class="row">
+		<div class="row flex">
 			<form action="sendContactForm" method="post">
 				<div class="info">
 					<label><span class="fn">FULL NAME</span>
 						<input type="text" name="name" placeholder="Enter your full name">
 					</label>
-					
+
 					<label><span class="date">Date</span>
 						<input type="date" name="address" placeholder="Select an appointment Date">
 					</label>

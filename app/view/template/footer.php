@@ -62,7 +62,7 @@
 		</div>
 	</div>
 </footer>
-
+<!-- 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="<?php echo URL; ?>public/scripts/sendform.js" data-view="<?php echo $view; ?>" id="sendform"></script>
 <!-- <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>  -->
@@ -128,7 +128,7 @@
 			}
 		});
 	</script>
-<?php endif; ?>
+<?php endif; ?> -->
 
 <a class="cta" href="tel:<?php $this->info("phone"); ?>"><span
 		style="display: block; width: 1px; height: 1px; overflow: hidden;">Call To Action Button</span></a>
