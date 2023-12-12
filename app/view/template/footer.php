@@ -1,7 +1,7 @@
 <footer>
 	<div id="footer">
 
-		<div class="content">
+		<div class="flex row content">
 
 			<div class="about">
 				<h5>ABOUT US</h5>
@@ -21,11 +21,11 @@
 			<div class="follow-us">
 				<h5>FOLLOW US</h5>
 				<div class="socials">
-					<a href="#"><img src="images/icons/facebook-footer.png" alt="facebook"></a>
-					<a href="#"><img src="images/icons/instagram.fw.png" alt="instagram"></a>
-					<a href="#"><img src="images/icons/linkedin-footer.fw.png" alt="linkedin"></a>
-					<a href="#"><img src="images/icons/twitter-footer.fw.png" alt="twitter"></a>
-					<a href="#"><img src="images/icons/youtube.fw.png" alt="youtube"></a>
+					<a href="#"><img src="public/images/content/footer-fb.png" alt="facebook"></a>
+					<a href="#"><img src="public/images/content/footer-ig.png" alt="instagram"></a>
+					<a href="#"><img src="public/images/content/footer-linkedin.png" alt="linkedin"></a>
+					<a href="#"><img src="public/images/content/footer-twitter.png" alt="twitter"></a>
+					<a href="#"><img src="public/images/content/footer-yt.png" alt="youtube"></a>
 				</div>
 			</div>
 
@@ -33,14 +33,15 @@
 				<h5>NEWSLETTER</h5>
 				<p>Sign Up to our Newsletter to Recieve Updates, News, Events and Discounts</p>
 
-				<form action="#" method="post">
-					<div class="input-group">
-						<i class="fa fa-envelope"></i>
-						<input type="email" name="email" name="email" placeholder="Your Email Here:">
+				<div class="form-holder">
+					<form action="#" method="post">
+						<div class="input-group">
+							<i class="fa fa-envelope"></i>
+							<input type="email" name="email" name="email" placeholder="Your Email Here:">
+						</div>
 						<button type="submit" class="email-btn" disabled>SEND</button>
-					</div>
-				</form>
-
+					</form>
+				</div>
 			</div>
 		</div>
 

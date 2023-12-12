@@ -7,7 +7,7 @@
 	</div>
 
 	<div id="services">
-		<div class="row flex services">
+		<div class="row flex dflex services">
 			<div class="service1">
 				<h3><img src="public/images/content/top-layers.fw.png"> Top Layers</h3>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
@@ -34,7 +34,7 @@
 
 
 <div id="the-firm">
-	<div class="row flex content">
+	<div class="row flex dflex content">
 		<div class="main">
 			<div class="title-page">THE FIRM</div>
 			<div class="sub-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit</div>
@@ -90,9 +90,9 @@
 				<h4>Business Lawyer</h4>
 				<div class="atty-name">NAME NAME</div>
 				<div class="socials">
-					<a href="#"><img src="images/icons/facebook.fw.png" alt="facebook"></a>
-					<a href="#"><img src="images/icons/linkedin.fw.png" alt="linkedin"></a>
-					<a href="#"><img src="images/icons/twitter.fw.png" alt="twitter"></a>
+					<a href="#"><img src="public/images/content/facebook.fw.png" alt="facebook"></a>
+					<a href="#"><img src="public/images/content/linkedin.fw.png" alt="linkedin"></a>
+					<a href="#"><img src="public/images/content/twitter.fw.png" alt="twitter"></a>
 				</div>
 			</div>
 
@@ -101,9 +101,9 @@
 				<h4>Constitutional Lawyer</h4>
 				<div class="atty-name">NAME NAME</div>
 				<div class="socials">
-					<a href="#"><img src="images/icons/facebook.fw.png" alt="facebook"></a>
-					<a href="#"><img src="images/icons/linkedin.fw.png" alt="linkedin"></a>
-					<a href="#"><img src="images/icons/twitter.fw.png" alt="twitter"></a>
+					<a href="#"><img src="public/images/content/facebook.fw.png" alt="facebook"></a>
+					<a href="#"><img src="public/images/content/linkedin.fw.png" alt="linkedin"></a>
+					<a href="#"><img src="public/images/content/twitter.fw.png" alt="twitter"></a>
 				</div>
 			</div>
 
@@ -112,9 +112,9 @@
 				<h4>Tax Lawyer</h4>
 				<div class="atty-name">NAME NAME</div>
 				<div class="socials">
-					<a href="#"><img src="images/icons/facebook.fw.png" alt="facebook"></a>
-					<a href="#"><img src="images/icons/linkedin.fw.png" alt="linkedin"></a>
-					<a href="#"><img src="images/icons/twitter.fw.png" alt="twitter"></a>
+					<a href="#"><img src="public/images/content/facebook.fw.png" alt="facebook"></a>
+					<a href="#"><img src="public/images/content/linkedin.fw.png" alt="linkedin"></a>
+					<a href="#"><img src="public/images/content/twitter.fw.png" alt="twitter"></a>
 				</div>
 			</div>
 
@@ -123,9 +123,9 @@
 				<h4>Business Lawyer</h4>
 				<div class="atty-name">NAME NAME</div>
 				<div class="socials">
-					<a href="#"><img src="images/icons/facebook.fw.png" alt="facebook"></a>
-					<a href="#"><img src="images/icons/linkedin.fw.png" alt="linkedin"></a>
-					<a href="#"><img src="images/icons/twitter.fw.png" alt="twitter"></a>
+					<a href="#"><img src="public/images/content/facebook.fw.png" alt="facebook"></a>
+					<a href="#"><img src="public/images/content/linkedin.fw.png" alt="linkedin"></a>
+					<a href="#"><img src="public/images/content/twitter.fw.png" alt="twitter"></a>
 				</div>
 			</div>
 
@@ -134,9 +134,9 @@
 				<h4>Business Lawyer</h4>
 				<div class="atty-name">NAME NAME</div>
 				<div class="socials">
-					<a href="#"><img src="images/icons/facebook.fw.png" alt="facebook"></a>
-					<a href="#"><img src="images/icons/linkedin.fw.png" alt="linkedin"></a>
-					<a href="#"><img src="images/icons/twitter.fw.png" alt="twitter"></a>
+					<a href="#"><img src="public/images/content/facebook.fw.png" alt="facebook"></a>
+					<a href="#"><img src="public/images/content/linkedin.fw.png" alt="linkedin"></a>
+					<a href="#"><img src="public/images/content/twitter.fw.png" alt="twitter"></a>
 				</div>
 
 			</div>
@@ -146,9 +146,9 @@
 				<h4>Constitutional Lawyer</h4>
 				<div class="atty-name">NAME NAME</div>
 				<div class="socials">
-					<a href="#"><img src="images/icons/facebook.fw.png" alt="facebook"></a>
-					<a href="#"><img src="images/icons/linkedin.fw.png" alt="linkedin"></a>
-					<a href="#"><img src="images/icons/twitter.fw.png" alt="twitter"></a>
+					<a href="#"><img src="public/images/content/facebook.fw.png" alt="facebook"></a>
+					<a href="#"><img src="public/images/content/linkedin.fw.png" alt="linkedin"></a>
+					<a href="#"><img src="public/images/content/twitter.fw.png" alt="twitter"></a>
 				</div>
 			</div>
 
@@ -157,9 +157,9 @@
 				<h4>Tax Lawyer</h4>
 				<div class="atty-name">NAME NAME</div>
 				<div class="socials">
-					<a href="#"><img src="images/icons/facebook.fw.png" alt="facebook"></a>
-					<a href="#"><img src="images/icons/linkedin.fw.png" alt="linkedin"></a>
-					<a href="#"><img src="images/icons/twitter.fw.png" alt="twitter"></a>
+					<a href="#"><img src="public/images/content/facebook.fw.png" alt="facebook"></a>
+					<a href="#"><img src="public/images/content/linkedin.fw.png" alt="linkedin"></a>
+					<a href="#"><img src="public/images/content/twitter.fw.png" alt="twitter"></a>
 				</div>
 			</div>
 
@@ -168,57 +168,62 @@
 				<h4>Business Lawyer</h4>
 				<div class="atty-name">NAME NAME</div>
 				<div class="socials">
-					<a href="#"><img src="images/icons/facebook.fw.png" alt="facebook"></a>
-					<a href="#"><img src="images/icons/linkedin.fw.png" alt="linkedin"></a>
-					<a href="#"><img src="images/icons/twitter.fw.png" alt="twitter"></a>
+					<a href="#"><img src="public/images/content/facebook.fw.png" alt="facebook"></a>
+					<a href="#"><img src="public/images/content/linkedin.fw.png" alt="linkedin"></a>
+					<a href="#"><img src="public/images/content/twitter.fw.png" alt="twitter"></a>
 				</div>
 			</div>
 		</div>
 
-		<button><a href="#" class="more">View more</a></button>
+		<div class="btn">
+			<a href="<?php echo URL ?>more#content">View more</a>
+		</div>
 	</div>
 </div>
 
 
-<div class="practice-area">
-	<div class="carousel">
-		<div class="wrapper">
-			<section>
-				<img src="images/image3.fw.png" alt="">
+<div id="practice-area">
+	<div class="row flex carousel">
+		<div class=" wrapper">
 
-			</section>
+			<div class="img-holder">
+				<img src="public/images/content/practice-area-img.png" alt="">
+			</div>
 
-			<article>
-				<h3>PRACTICE AREA</h3>
-				<h2>We are here to provide legal help</h2>
+			<div class="content-holder">
+
+				<div class="title">
+					<div class="title-page">PRACTICE AREA</div>
+					<div class="sub-title">We are here to provide legal help</div>
+				</div>
 
 				<div class="content">
-					<div class="content1">
-						<img src="images/icons/pactice-area.fw.png" alt="">
+					<div class="prac-con content1">
+						<img src="public/images/content/pactice-area.fw.png" alt="">
 						<h3>Human rights</h3>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
 							ut
 							labore et dolore magna aliqua. </p>
 					</div>
 
-					<div class="content2">
-						<img src="images/icons/pactice-area.fw.png" alt="">
+					<div class="prac-con content2">
+						<img src="public/images/content/pactice-area.fw.png" alt="">
 						<h3>Lorem Ipsum</h3>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
 							ut
 							labore et dolore magna aliqua. </p>
 					</div>
 
-					<div class="content3">
-						<img src="images/icons/pactice-area.fw.png" alt="">
+					<div class="prac-con content3">
+						<img src="public/images/content/pactice-area.fw.png" alt="">
 						<h3>Lorem Ipsum</h3>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
 							ut
 							labore et dolore magna aliqua. </p>
 					</div>
 
-					<div class="content4">
-						<img src="images/icons/pactice-area.fw.png" alt="">
+					<div class="prac-con content4">
+						<img src="public/images/content/pactice-area.fw.png" alt="">
 						<h3>Lorem Ipsum</h3>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
 							ut
@@ -227,51 +232,61 @@
 
 				</div>
 
-			</article>
+			</div>
+
+
+			<div class="btn-next">
+				<button><i class='fas fa-chevron-right'></i></button>
+			</div>
+
 		</div>
-		<button><i class='fas fa-chevron-right'></i></button>
+
 	</div>
-
-
 </div>
 
-<div class="testimonials">
-	<div class="title">
-		<h3>TESTOMONIALS</h3>
-		<h4>What the customers says about us</h4>
+<div id="testimonials">
+	<div class="flex content">
+		<div class="title">
+			<div class="title-page">TESTOMONIALS</div>
+			<div class="sub-title">What the customers says about us</div>
+		</div>
+
+		<div class="tes-con content1">
+			<img src="public/images/content/testimonials1.png" alt="">
+			<div class="overlay-text">
+				<div class="remarks">Lorem ipsum dolor sit amet, consectetur adipiscing elit</div>
+				<div class="auth">lorem ipsum</div>
+			</div>
+		</div>
+
+		<div class="tes-con content2">
+			<img src="public/images/content/testimonials2.png" alt="">
+			<div class="overlay-text">
+				<div class="remarks">Lorem ipsum dolor sit amet, consectetur adipiscing elit</div>
+				<div class="auth">lorem ipsum</div>
+			</div>
+		</div>
+		<div class="tes-con content3">
+			<img src="public/images/content/testimonials1.png" alt="">
+			<div class="overlay-text">
+				<div class="remarks">Lorem ipsum dolor sit amet, consectetur adipiscing elit</div>
+				<div class="auth">lorem ipsum</div>
+			</div>
+		</div>
+
 	</div>
-	<section class="qoute1">
-		<img src="images/testimonials1.fw.png" alt="">
-		<div class="overlay-text">
-			<h2 class="qoute">Lorem ipsum dolor sit amet, consectetur adipiscing elit <br> <br>- lorem ipsum</h2>
-		</div>
-	</section>
-
-	<section class="qoute2">
-		<img src="images/testimonials2.fw.png" alt="">
-		<div class="overlay-text">
-			<h2 class="qoute">Lorem ipsum dolor sit amet, consectetur adipiscing elit <br> <br>- lorem ipsum</h2>
-		</div>
-	</section>
-
-	<section class="qoute3">
-		<img src="images/testimonials1.fw.png" alt="">
-		<div class="overlay-text">
-			<h2 class="qoute">Lorem ipsum dolor sit amet, consectetur adipiscing elit <br> <br>- lorem ipsum</h2>
-		</div>
-	</section>
-
 </div>
 
-<div class="contact-us">
+<div id="contact-us">
 	<div class="title">
-		<h3>Contact us</h3>
-		<h4>GET CONNECTED WITH US</h4>
+		<div class="title-page">Contact us</div>
+		<div class="sub-title">GET CONNECTED WITH US</div>
 	</div>
 
-	<div class="content">
+	<div class="row content">
 
-		<section>
+		<div class="con-steps">
+
 			<h3>Here's what will happen during your consultation</h3>
 
 			<div class="steps">
@@ -291,7 +306,7 @@
 				</div>
 
 			</div>
-		</section>
+		</div>
 
 		<div class="row">
 			<form action="sendContactForm" method="post">
@@ -299,13 +314,13 @@
 					<label><span class="fn">FULL NAME</span>
 						<input type="text" name="name" placeholder="Enter your full name">
 					</label>
+					
+					<label><span class="date">Date</span>
+						<input type="date" name="address" placeholder="Select an appointment Date">
+					</label>
 
 					<label><span class="email">EMAIL ADDRESS</span>
 						<input type="text" name="email" placeholder="Email:">
-					</label>
-
-					<label><span class="date">Date</span>
-						<input type="date" name="address" placeholder="Select an appointment Date">
 					</label>
 
 					<label><span class="num">Mobile Number</span>
